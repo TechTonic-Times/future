@@ -1,0 +1,452 @@
+[
+    {
+        "title": "The AI Architect: Designing Neural Networks That Design Themselves",
+        "excerpt": "Exploring neuroevolution and automated machine learning systems that create optimized AI models without human intervention.",
+        "category": "AI",
+        "tag": "AI",
+        "readTime": "11 min",
+        "timestamp": "2024-01-15T14:20:00",
+        "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/ai-architect-designing-neural-networks-design-themselves"
+    },
+    {
+        "title": "Emotional AI: Teaching Machines to Recognize and Respond to Human Feelings",
+        "excerpt": "How affective computing is revolutionizing customer service, mental health, and human-machine interaction.",
+        "category": "AI",
+        "tag": "AI",
+        "readTime": "9 min",
+        "timestamp": "2024-02-05T10:15:00",
+        "image": "https://images.unsplash.com/photo-1555255707-c07966088b7b?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/emotional-ai-teaching-machines-recognize-respond-human-feelings"
+    },
+    {
+        "title": "Swarm Robotics: When Hundreds of Simple Robots Outperform a Single Complex One",
+        "excerpt": "How decentralized robotic systems inspired by insect colonies are revolutionizing search, rescue, and construction.",
+        "category": "Robotics",
+        "tag": "Robotics",
+        "readTime": "12 min",
+        "timestamp": "2024-03-08T16:45:00",
+        "image": "https://images.unsplash.com/photo-1677856209785-6c0c1edb7d39?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/swarm-robotics-hundreds-simple-robots-outperform-single-complex"
+    },
+    {
+        "title": "Soft Robotics: Creating Machines That Can Squeeze, Stretch, and Heal",
+        "excerpt": "The emerging field of flexible robots that can navigate delicate environments and interact safely with humans.",
+        "category": "Robotics",
+        "tag": "Robotics",
+        "readTime": "10 min",
+        "timestamp": "2024-04-02T13:30:00",
+        "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/soft-robotics-creating-machines-squeeze-stretch-heal"
+    },
+    {
+        "title": "The Internet of Medical Things: How Connected Devices Are Transforming Healthcare",
+        "excerpt": "From smart pills to continuous glucose monitors, IoT is creating a new era of preventive and personalized medicine.",
+        "category": "IoT",
+        "tag": "IoT",
+        "readTime": "8 min",
+        "timestamp": "2024-05-12T09:20:00",
+        "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/internet-medical-things-connected-devices-transforming-healthcare"
+    },
+    {
+        "title": "Smart Agriculture: How IoT Sensors Are Revolutionizing Farming Efficiency",
+        "excerpt": "Precision farming with soil moisture sensors, drone monitoring, and automated irrigation systems.",
+        "category": "IoT",
+        "tag": "IoT",
+        "readTime": "7 min",
+        "timestamp": "2024-06-01T11:40:00",
+        "image": "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/smart-agriculture-iot-sensors-revolutionizing-farming-efficiency"
+    },
+    {
+        "title": "Hyperautomation: The Convergence of AI, RPA, and Process Mining",
+        "excerpt": "How organizations are achieving end-to-end automation by combining multiple advanced technologies.",
+        "category": "Automation",
+        "tag": "Automation",
+        "readTime": "14 min",
+        "timestamp": "2024-07-15T15:10:00",
+        "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/hyperautomation-convergence-ai-rpa-process-mining"
+    },
+    {
+        "title": "Cognitive Automation: When Machines Learn and Improve Business Processes",
+        "excerpt": "Beyond rule-based automation to systems that understand context, learn from data, and make decisions.",
+        "category": "Automation",
+        "tag": "Automation",
+        "readTime": "11 min",
+        "timestamp": "2024-08-06T14:25:00",
+        "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/cognitive-automation-machines-learn-improve-business-processes"
+    },
+    {
+        "title": "The Self-Healing City: Urban Infrastructure That Detects and Repairs Itself",
+        "excerpt": "How smart materials, sensors, and AI are creating resilient cities that maintain themselves.",
+        "category": "Smart Systems",
+        "tag": "Smart Systems",
+        "readTime": "13 min",
+        "timestamp": "2024-09-18T10:50:00",
+        "image": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/self-healing-city-urban-infrastructure-detects-repairs-itself"
+    },
+    {
+        "title": "Predictive Maintenance Systems: Preventing Failures Before They Happen",
+        "excerpt": "How AI and IoT are transforming maintenance from scheduled to condition-based across industries.",
+        "category": "Smart Systems",
+        "tag": "Smart Systems",
+        "readTime": "9 min",
+        "timestamp": "2024-10-04T16:15:00",
+        "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/predictive-maintenance-systems-preventing-failures-before-happen"
+    },
+    {
+        "title": "Spatial Computing: The Next Evolution Beyond Traditional AR/VR",
+        "excerpt": "How Apple Vision Pro and similar devices are blending digital content with physical space seamlessly.",
+        "category": "AR/VR",
+        "tag": "AR/VR",
+        "readTime": "12 min",
+        "timestamp": "2024-11-14T13:45:00",
+        "image": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/spatial-computing-next-evolution-beyond-traditional-ar-vr"
+    },
+    {
+        "title": "Haptic Feedback Suits: Feeling the Virtual World on Your Skin",
+        "excerpt": "Advanced tactile technology that lets users experience texture, temperature, and impact in VR environments.",
+        "category": "AR/VR",
+        "tag": "AR/VR",
+        "readTime": "10 min",
+        "timestamp": "2024-12-07T11:30:00",
+        "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/haptic-feedback-suits-feeling-virtual-world-your-skin"
+    },
+    {
+        "title": "Level 5 Autonomy: The Technical and Ethical Challenges of Fully Self-Driving Cars",
+        "excerpt": "Examining the remaining hurdles before vehicles can operate without any human intervention.",
+        "category": "Autonomous",
+        "tag": "Autonomous",
+        "readTime": "15 min",
+        "timestamp": "2025-01-17T09:40:00",
+        "image": "https://images.unsplash.com/photo-1549399542-7e3f8b79c341?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/level-5-autonomy-technical-ethical-challenges-fully-self-driving-cars"
+    },
+    {
+        "title": "Autonomous Delivery Networks: Drones, Robots, and the Future of Logistics",
+        "excerpt": "How autonomous systems are reshaping last-mile delivery and supply chain management.",
+        "category": "Autonomous",
+        "tag": "Autonomous",
+        "readTime": "11 min",
+        "timestamp": "2025-02-03T14:20:00",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/autonomous-delivery-networks-drones-robots-future-logistics"
+    },
+    {
+        "title": "Decentralized Social Media: Can Web3 Fix What's Broken with Social Networks?",
+        "excerpt": "Exploring blockchain-based alternatives to centralized platforms and their potential for user control.",
+        "category": "Web3",
+        "tag": "Web3",
+        "readTime": "13 min",
+        "timestamp": "2025-03-11T16:30:00",
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/decentralized-social-media-web3-fix-broken-social-networks"
+    },
+    {
+        "title": "The Spatial Web: Merging Web3 with AR/VR for Immersive Digital Experiences",
+        "excerpt": "How decentralized technologies are enabling persistent, interactive virtual worlds.",
+        "category": "Web3",
+        "tag": "Web3",
+        "readTime": "10 min",
+        "timestamp": "2025-04-05T12:45:00",
+        "image": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/spatial-web-merging-web3-ar-vr-immersive-digital-experiences"
+    },
+    {
+        "title": "Zero-Knowledge Proofs: The Privacy-Preserving Breakthrough for Blockchain",
+        "excerpt": "How ZKPs enable verification without revealing sensitive information, transforming blockchain applications.",
+        "category": "Blockchain",
+        "tag": "Blockchain",
+        "readTime": "14 min",
+        "timestamp": "2025-05-16T11:15:00",
+        "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/zero-knowledge-proofs-privacy-preserving-breakthrough-blockchain"
+    },
+    {
+        "title": "Blockchain Interoperability: Solving the Fragmentation of Distributed Ledgers",
+        "excerpt": "Protocols and standards that allow different blockchains to communicate and share value.",
+        "category": "Blockchain",
+        "tag": "Blockchain",
+        "readTime": "12 min",
+        "timestamp": "2025-06-09T15:40:00",
+        "image": "https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/blockchain-interoperability-solving-fragmentation-distributed-ledgers"
+    },
+    {
+        "title": "Solid-State Batteries: The Energy Storage Breakthrough That Changes Everything",
+        "excerpt": "How this next-generation technology promises safer, denser, faster-charging batteries for EVs and beyond.",
+        "category": "Energy Tech",
+        "tag": "Energy Tech",
+        "readTime": "11 min",
+        "timestamp": "2025-07-13T10:25:00",
+        "image": "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/solid-state-batteries-energy-storage-breakthrough-changes-everything"
+    },
+    {
+        "title": "Fusion Energy: Assessing the Timeline to Commercial Viability",
+        "excerpt": "Latest developments in nuclear fusion and realistic projections for when it might power our grid.",
+        "category": "Energy Tech",
+        "tag": "Energy Tech",
+        "readTime": "15 min",
+        "timestamp": "2025-08-02T14:50:00",
+        "image": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/fusion-energy-assessing-timeline-commercial-viability"
+    },
+    {
+        "title": "Carbon Capture and Utilization: Turning Emissions into Valuable Products",
+        "excerpt": "Innovative technologies that not only capture CO2 but transform it into fuels, building materials, and more.",
+        "category": "Sustainability",
+        "tag": "Sustainability",
+        "readTime": "13 min",
+        "timestamp": "2025-09-19T09:15:00",
+        "image": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/carbon-capture-utilization-turning-emissions-valuable-products"
+    },
+    {
+        "title": "Circular Economy Tech: Innovations in Recycling and Material Recovery",
+        "excerpt": "Advanced sorting systems, chemical recycling, and AI-powered waste management solutions.",
+        "category": "Sustainability",
+        "tag": "Sustainability",
+        "readTime": "10 min",
+        "timestamp": "2025-10-08T13:20:00",
+        "image": "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/circular-economy-tech-innovations-recycling-material-recovery"
+    },
+    {
+        "title": "CRISPR 2.0: Next-Generation Gene Editing with Improved Precision and Safety",
+        "excerpt": "Exploring base editing, prime editing, and other advancements beyond traditional CRISPR-Cas9.",
+        "category": "Biotech",
+        "tag": "Biotech",
+        "readTime": "16 min",
+        "timestamp": "2025-11-20T11:30:00",
+        "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/crispr-2-next-generation-gene-editing-improved-precision-safety"
+    },
+    {
+        "title": "Synthetic Biology: Programming Cells Like We Program Computers",
+        "excerpt": "How engineered biological systems are producing medicines, materials, and sustainable alternatives.",
+        "category": "Biotech",
+        "tag": "Biotech",
+        "readTime": "14 min",
+        "timestamp": "2025-12-12T15:45:00",
+        "image": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/synthetic-biology-programming-cells-program-computers"
+    },
+    {
+        "title": "Lunar Infrastructure: Building the First Permanent Human Outpost on the Moon",
+        "excerpt": "NASA's Artemis program and international efforts to establish sustainable lunar presence.",
+        "category": "Space Tech",
+        "tag": "Space Tech",
+        "readTime": "17 min",
+        "timestamp": "2024-01-21T14:10:00",
+        "image": "https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/lunar-infrastructure-building-first-permanent-human-outpost-moon"
+    },
+    {
+        "title": "Space-Based Solar Power: Beaming Clean Energy from Orbit to Earth",
+        "excerpt": "Assessing the feasibility, challenges, and potential of collecting solar energy in space.",
+        "category": "Space Tech",
+        "tag": "Space Tech",
+        "readTime": "15 min",
+        "timestamp": "2024-02-10T16:25:00",
+        "image": "https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/space-based-solar-power-beaming-clean-energy-orbit-earth"
+    },
+    {
+        "title": "Quantum Supremacy: What It Means and Why It Matters for Computing",
+        "excerpt": "Understanding the milestone where quantum computers outperform classical ones on specific tasks.",
+        "category": "Quantum",
+        "tag": "Quantum",
+        "readTime": "18 min",
+        "timestamp": "2024-03-22T10:40:00",
+        "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/quantum-supremacy-what-means-why-matters-computing"
+    },
+    {
+        "title": "Quantum Cryptography: Unbreakable Encryption in the Age of Quantum Computing",
+        "excerpt": "How quantum key distribution creates fundamentally secure communication channels.",
+        "category": "Quantum",
+        "tag": "Quantum",
+        "readTime": "13 min",
+        "timestamp": "2024-04-14T12:55:00",
+        "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/quantum-cryptography-unbreakable-encryption-age-quantum-computing"
+    },
+    {
+        "title": "Digital Twin of a Human: Personalized Medicine Through Virtual Replication",
+        "excerpt": "Creating dynamic digital models of individual patients to predict health outcomes and test treatments.",
+        "category": "Digital Twin",
+        "tag": "Digital Twin",
+        "readTime": "16 min",
+        "timestamp": "2024-05-23T13:20:00",
+        "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/digital-twin-human-personalized-medicine-virtual-replication"
+    },
+    {
+        "title": "City-Scale Digital Twins: Simulating Urban Futures Before Building Them",
+        "excerpt": "How virtual replicas of entire cities are revolutionizing urban planning and management.",
+        "category": "Digital Twin",
+        "tag": "Digital Twin",
+        "readTime": "14 min",
+        "timestamp": "2024-06-16T15:35:00",
+        "image": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/city-scale-digital-twins-simulating-urban-futures-building-them"
+    },
+    {
+        "title": "AI at the Edge: Why Processing Data Locally Is Revolutionizing IoT",
+        "excerpt": "How edge computing enables real-time decision-making for autonomous systems and smart devices.",
+        "category": "Edge Computing",
+        "tag": "Edge Computing",
+        "readTime": "11 min",
+        "timestamp": "2024-07-24T09:50:00",
+        "image": "https://images.unsplash.com/photo-1546054451-5d0ec4d4435c?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/ai-edge-processing-data-locally-revolutionizing-iot"
+    },
+    {
+        "title": "Fog Computing: The Distributed Architecture Bridging Cloud and Edge",
+        "excerpt": "Understanding the hierarchical approach that brings compute resources closer to data sources.",
+        "category": "Edge Computing",
+        "tag": "Edge Computing",
+        "readTime": "10 min",
+        "timestamp": "2024-08-18T11:05:00",
+        "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/fog-computing-distributed-architecture-bridging-cloud-edge"
+    },
+    {
+        "title": "Brain-Computer Interfaces: From Medical Restoration to Human Augmentation",
+        "excerpt": "How neural interfaces are evolving from therapeutic devices to enhancement technologies.",
+        "category": "Neurotech",
+        "tag": "Neurotech",
+        "readTime": "17 min",
+        "timestamp": "2024-09-25T14:30:00",
+        "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/brain-computer-interfaces-medical-restoration-human-augmentation"
+    },
+    {
+        "title": "Non-Invasive Neurostimulation: Enhancing Cognition Without Surgery",
+        "excerpt": "Transcranial magnetic and electrical stimulation technologies for memory, learning, and focus.",
+        "category": "Neurotech",
+        "tag": "Neurotech",
+        "readTime": "12 min",
+        "timestamp": "2024-10-20T16:45:00",
+        "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/non-invasive-neurostimulation-enhancing-cognition-without-surgery"
+    },
+    {
+        "title": "Exoskeleton Evolution: From Medical Rehabilitation to Industrial Enhancement",
+        "excerpt": "How powered exosuits are augmenting human strength and endurance across multiple domains.",
+        "category": "Human Augmentation",
+        "tag": "Human Augmentation",
+        "readTime": "13 min",
+        "timestamp": "2024-11-26T10:15:00",
+        "image": "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/exoskeleton-evolution-medical-rehabilitation-industrial-enhancement"
+    },
+    {
+        "title": "Sensory Augmentation: Expanding Human Perception Beyond Natural Limits",
+        "excerpt": "Technologies that allow humans to see infrared, hear ultrasound, or feel electromagnetic fields.",
+        "category": "Human Augmentation",
+        "tag": "Human Augmentation",
+        "readTime": "14 min",
+        "timestamp": "2024-12-22T12:30:00",
+        "image": "https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/sensory-augmentation-expanding-human-perception-beyond-natural-limits"
+    },
+    {
+        "title": "Metamaterials: Engineering Substances with Properties Not Found in Nature",
+        "excerpt": "How artificially structured materials are enabling invisibility cloaks, perfect lenses, and more.",
+        "category": "Advanced Materials",
+        "tag": "Advanced Materials",
+        "readTime": "15 min",
+        "timestamp": "2025-01-27T15:50:00",
+        "image": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/metamaterials-engineering-substances-properties-not-found-nature"
+    },
+    {
+        "title": "Self-Healing Materials: Polymers, Metals, and Concrete That Repair Themselves",
+        "excerpt": "Innovative materials that automatically fix cracks, scratches, and other damage without human intervention.",
+        "category": "Advanced Materials",
+        "tag": "Advanced Materials",
+        "readTime": "12 min",
+        "timestamp": "2025-02-24T13:05:00",
+        "image": "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/self-healing-materials-polymers-metals-concrete-repair-themselves"
+    },
+    {
+        "title": "Digital Twin Simulations: Predicting Real-World Outcomes with Virtual Models",
+        "excerpt": "How accurate simulations are enabling better decision-making in engineering, healthcare, and urban planning.",
+        "category": "Simulation",
+        "tag": "Simulation",
+        "readTime": "14 min",
+        "timestamp": "2025-03-28T11:25:00",
+        "image": "https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/digital-twin-simulations-predicting-real-world-outcomes-virtual-models"
+    },
+    {
+        "title": "Physics-Informed Neural Networks: The Next Generation of Simulation Technology",
+        "excerpt": "How AI systems trained on physical laws are creating faster, more accurate simulations.",
+        "category": "Simulation",
+        "tag": "Simulation",
+        "readTime": "16 min",
+        "timestamp": "2025-04-26T14:40:00",
+        "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/physics-informed-neural-networks-next-generation-simulation-technology"
+    },
+     {
+        "title": "Phyysics-Informed Neural Networks: The Next Generation of Simulation Technology",
+        "excerpt": "How AI systems trained on physical laws are creating faster, more accurate simulations.",
+        "category": "Simulation",
+        "tag": "Simulation",
+        "readTime": "16 min",
+        "timestamp": "2025-04-26T14:40:00",
+        "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/physics-informed-neural-networks-next-generation-simulation-technology"
+    },
+    {
+        "title": "Biohybrid Systems: Merging Biological and Technological Components",
+        "excerpt": "From living robots to biological computers, the frontier where biology and engineering converge.",
+        "category": "Emerging",
+        "tag": "Emerging",
+        "readTime": "18 min",
+        "timestamp": "2025-05-29T13:55:00",
+        "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/biohybrid-systems-merging-biological-technological-components"
+    },
+    {
+        "title": "Molecular Manufacturing: The Promise and Challenges of Nanoscale Assembly",
+        "excerpt": "Assessing the progress toward building materials and devices atom by atom.",
+        "category": "Emerging",
+        "tag": "Emerging",
+        "readTime": "15 min",
+        "timestamp": "2025-06-28T16:10:00",
+        "image": "https://images.unsplash.com/photo-1581094794329-c8112a89af12?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/molecular-manufacturing-promise-challenges-nanoscale-assembly"
+    },
+    {
+        "title": "Neuromorphic Computing: Building Computer Chips That Work Like Human Brains",
+        "excerpt": "How brain-inspired architectures are revolutionizing AI efficiency and capability.",
+        "category": "Next-Gen",
+        "tag": "Next-Gen",
+        "readTime": "17 min",
+        "timestamp": "2025-07-30T10:20:00",
+        "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/neuromorphic-computing-building-computer-chips-work-human-brains"
+    },
+    {
+        "title": "Optical Computing: Processing Data at the Speed of Light",
+        "excerpt": "How photonic systems could overcome the limitations of traditional electronic computers.",
+        "category": "Next-Gen",
+        "tag": "Next-Gen",
+        "readTime": "14 min",
+        "timestamp": "2026-02-08T14:35:00",
+        "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=200&h=200&fit=crop&crop=center",
+        "url": "/articles/optical-computing-processing-data-speed-light"
+    }
+]
